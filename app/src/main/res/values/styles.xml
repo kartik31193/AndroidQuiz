@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+
+
+    <style name="buttonstyleleft" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/left</item>
+        <item name="android:text">PREV</item>
+    </style>
+    <style name="buttonstyleright" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/right</item>
+        <item name="android:text">NEXT</item>
+    </style>
+    <style name="submit" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/submit</item>
+        <item name="android:text">SUBMIT</item>
+    </style>
+
+
+
+
+</resources>

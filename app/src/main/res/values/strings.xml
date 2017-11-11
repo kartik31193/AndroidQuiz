@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Quiz</string>
+
+    <string name="question_1">What is this question_1?</string>
+    <string name="question_2">What is this question_2?</string>
+    <string name="question_3">What is this question_3?</string>
+    <string name="question_4">What is this question_4?</string>
+</resources>
